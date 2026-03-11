@@ -19,6 +19,10 @@
   Texto fundamental de Jacques Lacan, conhecido como o "Discurso de Roma" (1953). Aborda a funcao da fala e da linguagem na psicanalise e argumenta que o formalismo na transmissao da doutrina freudiana pode inibir a iniciativa e autenticidade na pesquisa psicanalitica.
   - [Scribd - Lacan, Funcao e Campo da Fala](https://www.scribd.com/document/551673625/LACAN-Funcao-e-Campo-Da-Fala)
 
+- **Lacan - Homenagem a Marguerite Duras pelo Arrebatamento de Lol V. Stein**
+  Texto de Jacques Lacan publicado em 1965 como homenagem ao romance de Marguerite Duras. Lacan analisa a estrutura do arrebatamento e a posicao feminina a partir da narrativa de Duras, reconhecendo que a escritora "sabe, sem mim, o que eu ensino". O texto foi reunido em "Outros Escritos" (Zahar, 2003).
+  - [Amazon - O Arrebatamento de Lol V. Stein](https://www.amazon.com.br/arrebatamento-Lol-V-Stein/dp/6589889821)
+
 - **Melanie Klein - Vol. 1: Amor, Culpa e Reparacao**
   Compilacao digitalizada (647 paginas) das obras de Melanie Klein, pioneira na psicanalise infantil e na teoria das relacoes objetais. Reune contribuicoes teoricas e clinicas sobre amor, culpa e reparacao.
   - [Academia.edu - Melanie Klein Vol.1](https://www.academia.edu/127994476/Melanie_Klein_Vol_1_Amor_Culpa_e_Repara%C3%A7%C3%A3o_Digitalizado_em_2023_Capa_Nova)
