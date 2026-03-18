@@ -51,9 +51,27 @@
 
 ---
 
-## Aula 2 - (a definir)
+## Aula 2 - 17/03/2026
 
-*Conteudo a ser adicionado*
+### Leituras
+
+- **Antigona - Sofocles**
+  Tragedia grega do seculo V a.C. em que Antigona desafia a lei do rei Creonte ao enterrar seu irmao Polinices, condenado a permanecer insepulto por ser considerado traidor. Antigona escolhe a lei divina e o dever familiar acima da lei do Estado, mesmo sabendo que o castigo e a morte. Para a psicanalise, e uma figura central: Lacan dedicou parte fundamental do Seminario VII (A Etica da Psicanalise, 1959-1960) a essa tragedia, tomando Antigona como encarnacao do "desejo puro" — um ato que nao visa nenhum bem ou recompensa, levando o sujeito para alem do principio do prazer. A partir dela, Lacan formula o imperativo etico da psicanalise: "nao ceder de seu desejo".
+  - [PePSIC - Antigona e a etica da psicanalise](https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S0102-73952013000100004)
+
+- **Psicopatologia da Vida Cotidiana - Sigmund Freud (1901)**
+  Primeiro grande sucesso editorial de Freud, publicado em 1901. Demonstra que fenomenos aparentemente banais do dia a dia — lapsos de fala, esquecimentos de nomes, erros de leitura e escrita, quedas e atos desastrados — nao sao casuais, mas possuem significado psiquico. Esses atos falhos (Fehlleistungen) sao formacoes de compromisso entre o consciente e o inconsciente: desejos e conteudos recalcados encontram atraves deles uma via de expressao na vida cotidiana. A obra e fundamental porque demonstra que o inconsciente nao se manifesta apenas nos sonhos ou nos sintomas neuroticos, mas opera continuamente na vida comum de qualquer pessoa.
+  - [Psicanalise Clinica - Psicopatologia da Vida Cotidiana](https://www.psicanaliseclinica.com/psicopatologia-vida-cotidiana-freud/)
+
+- **O Normal e o Patologico - Georges Canguilhem (1943)**
+  Obra fundamental da filosofia da medicina e da epistemologia das ciencias da vida. Canguilhem rejeita a concepcao do seculo XIX que tratava a doenca como mera variacao quantitativa das funcoes normais, argumentando que a doenca implica uma transformacao qualitativa de todo o organismo. O conceito central e o de normatividade vital: a saude nao consiste em conformar-se a um padrao fixo, mas na capacidade do organismo de criar e adaptar normas diante de novas condicoes; a doenca e justamente a fixacao rigida a uma unica norma, a perda dessa flexibilidade. A anomalia nao e em si patologica — so se torna patologica quando restringe a capacidade vital do organismo. Relevante para a psicanalise e a saude mental por questionar radicalmente os criterios de distincao entre normal e patologico.
+  - [SciELO - O Normal e o Patologico](https://www.scielo.br/j/ss/a/VfqSSxvQ7WBQyrKKbJwjpWx/?format=html&lang=pt)
+
+### Artigos
+
+- **Traduzir Bertha Pappenheim: do teatro particular ao publico - Julia Fatio Vasconcelos**
+  Artigo publicado na Revista Lacuna (n.17, 2025) que reflete sobre o ato de traduzir a partir de Barbara Cassin e Walter Benjamin, tomando como fio condutor a figura de Bertha Pappenheim — feminista, ativista, escritora e a celebre "Anna O." de Breuer e Freud. Pappenheim cunhou o termo "talking cure" em 1881, em lingua inglesa (estrangeira para ela), durante seu adoecimento marcado por desorganizacao linguistica — termo que se tornou batismo da psicanalise. O artigo acompanha a passagem dos devaneios privados de Bertha ("teatro particular") para a escrita publica: sua primeira publicacao (1888) marcou o fim de suas internacoes psiquiatricas, e atraves da escrita ela se moveu da clausura domestica para a esfera publica, fazendo da "writting cure" ferramenta de emancipacao e luta coletiva pelas mulheres. A traducao, nesse contexto, e entendida como ato politico que "complica o universal" e faz mundos diferentes se comunicarem.
+  - [Revista Lacuna - Traduzir Bertha Pappenheim](https://revistalacuna.com/2025/02/18/n-17-08/)
 
 ---
 
