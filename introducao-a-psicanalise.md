@@ -63,10 +63,7 @@
   Primeiro grande sucesso editorial de Freud, publicado em 1901. Demonstra que fenomenos aparentemente banais do dia a dia — lapsos de fala, esquecimentos de nomes, erros de leitura e escrita, quedas e atos desastrados — nao sao casuais, mas possuem significado psiquico. Esses atos falhos (Fehlleistungen) sao formacoes de compromisso entre o consciente e o inconsciente: desejos e conteudos recalcados encontram atraves deles uma via de expressao na vida cotidiana. A obra e fundamental porque demonstra que o inconsciente nao se manifesta apenas nos sonhos ou nos sintomas neuroticos, mas opera continuamente na vida comum de qualquer pessoa.
   - [Psicanalise Clinica - Psicopatologia da Vida Cotidiana](https://www.psicanaliseclinica.com/psicopatologia-vida-cotidiana-freud/)
 
-- **O Nome na Ponta da Lingua - Pascal Quignard (1993)**
-  Coletanea de dois ensaios do escritor frances Pascal Quignard, publicada pela Chao da Feira (2018, traducao de Ruth Silviano Brandao e Yolanda Vilela). O primeiro ensaio (1993) explora a concepcao de linguagem de Quignard atraves de tres narrativas entrecruzadas: um encontro com o compositor Pierre Boulez, a historia de uma bordadeira atraida por um jovem alfaiate e uma lembranca de infancia que marcou a escrita do autor. O segundo texto (2014), apresentado em um coloquio de Cerisy dedicado a sua obra, examina a escrita do poeta John Donne. O livro borra as fronteiras entre ensaio e ficcao, utilizando "imagens, testemunhos, pensamento e invencao" como veiculos de sentido.
-  - [Amazon - O Nome na Ponta da Lingua](https://www.amazon.com.br/nome-na-ponta-l%C3%ADngua/dp/8566421175)
-
+-
 - **O Normal e o Patologico - Georges Canguilhem (1943)**
   Obra fundamental da filosofia da medicina e da epistemologia das ciencias da vida. Canguilhem rejeita a concepcao do seculo XIX que tratava a doenca como mera variacao quantitativa das funcoes normais, argumentando que a doenca implica uma transformacao qualitativa de todo o organismo. O conceito central e o de normatividade vital: a saude nao consiste em conformar-se a um padrao fixo, mas na capacidade do organismo de criar e adaptar normas diante de novas condicoes; a doenca e justamente a fixacao rigida a uma unica norma, a perda dessa flexibilidade. A anomalia nao e em si patologica — so se torna patologica quando restringe a capacidade vital do organismo. Relevante para a psicanalise e a saude mental por questionar radicalmente os criterios de distincao entre normal e patologico.
   - [SciELO - O Normal e o Patologico](https://www.scielo.br/j/ss/a/VfqSSxvQ7WBQyrKKbJwjpWx/?format=html&lang=pt)
@@ -79,6 +76,33 @@
 
 ---
 
-## Aula 3 - (a definir)
+## Aula 3 - 24/03/2026
 
-*Conteudo a ser adicionado*
+### Tema: O Desejo dos Outros — Uma Etnografia dos Sonhos Yanomami
+
+### Leituras
+
+- **O Desejo dos Outros: Uma Etnografia dos Sonhos Yanomami - Hanna Limulja (2022)**
+  Obra da antropologa Hanna Limulja, publicada pela Ubu Editora (192 paginas), baseada em sua tese de doutorado em Antropologia Social pela UFSC (2019) e em trabalho de campo realizado entre os Yanomami da comunidade Pya u, na regiao de Toototopi, entre outubro de 2015 e fevereiro de 2017. Limulja trabalha com os Yanomami desde 2008. O livro propoe uma entrada no mundo yanomami pelos sonhos, contrastando radicalmente a concepcao psicanalitica freudiana — na qual o sonho e realizacao (disfarçada) de um desejo inconsciente do sujeito — com a experiencia yanomami, na qual sonhar e habitar outros mundos, deparar com outros seres e ser mobilizado pelo desejo dos outros. Trata-se de um "sonhar anti-narcisico": o sonho yanomami nao e expressao de um eu individual, mas comunicacao com a alteridade, tecnologia de relacao com seres nao-humanos. O sonho, sobretudo quando socializado, adquire funcoes praticas e politicas na vida cotidiana da comunidade: sonhar com inimigos alerta para perigos, sonhos que sugerem morte de alguem exigem medidas de protecao. Os xamas possuem capacidade superior de sonhar, viajando por mundos distantes. Publicado no contexto dos 30 anos da demarcacao da Terra Indigena Yanomami, o livro alerta para a importancia do sonhar na resistencia indigena. Prefacio de Renato Sztutman, texto de Jose Antonio Kelly, ilustracoes de Davi Kopenawa e textos de Maria Rita Kehl.
+  - [Ubu Editora - O Desejo dos Outros](https://www.ubueditora.com.br/desejo-dos-outros.html)
+  - [Amazon - O Desejo dos Outros](https://www.amazon.com.br/desejo-dos-outros-etnografia-yanomami/dp/6586497914)
+  - [SciELO - O sonhar anti-narcisico e a politica yanomami (resenha)](https://www.scielo.br/j/ra/a/fF7C6KHLpWRWK4MZJJYTv4H/)
+
+- **Hanna Limulja - Carta Aberta a Freud**
+  Texto de Hanna Limulja que dialoga diretamente com Freud a partir da experiencia yanomami com os sonhos, questionando a universalidade da interpretacao psicanalitica dos sonhos como realizacao de desejos inconscientes do sujeito. Enquanto para Freud o sonho e a "via regia" para o inconsciente individual, para os Yanomami os sonhos dizem respeito mais aos desejos dos outros que nos tocam — uma inversao radical da logica narcisica ocidental. A "carta aberta" propoe um deslocamento epistemologico: o que os povos indigenas ensinam sobre o sonhar coloca em questao os fundamentos da psicanalise sobre o sonho e o desejo.
+
+- **Retrato de Dora - Helene Cixous (1976)**
+  Obra teatral de Helene Cixous, publicada no Brasil pela Editora Blucher com traducao de Izabella Borges e prefacio de Flavia Trocoli. Cixous retoma o celebre "Caso Dora" de Freud — "Fragmento da Analise de um Caso de Histeria" (1905) — reescrevendo-o como peca de teatro, poema longo e gesto de subversao. Enquanto a historia de Dora foi narrada por Freud, mediada pelo olhar masculino, Cixous subtrai Freud de sua posicao privilegiada de interlocutor e narrador: a passagem da narrativa para a encenacao teatral remove a perspectiva do narrador externo e suas interpretacoes totalizantes, dando voz a protagonista e permitindo a palavra feminina que se situa no proprio corpo. A obra se situa nas fronteiras entre ficcao, autobiografia, psicanalise e filosofia, dialogando com Shakespeare, Proust, Freud e Derrida.
+  - [Blucher - Retrato de Dora (PDF preview)](https://storage.blucher.com.br/book/pdf_preview/ISSUU_e_PDF_dora.pdf)
+  - [Revista Rosa - O que em Dora nao se doma](https://revistarosa.com/10/o-que-em-dora-nao-se-doma)
+
+- **Dicionario de Psicanalise - Elisabeth Roudinesco & Michel Plon (1998)**
+  Obra de referencia fundamental para o estudo da psicanalise, publicada no Brasil pela Jorge Zahar Editor (892 paginas, capa dura), com traducao de Vera Ribeiro e Lucy Magalhaes. Contem cerca de 800 verbetes que recenseiam e classificam todos os elementos da psicanalise: conceitos teoricos, paises de implantacao, biografias dos protagonistas, entidades psicopatologicas criadas pela disciplina, tecnicas de cura e fenomenos psiquicos, casos clinicos sobre os quais o metodo terapeutico foi elaborado, instituicoes fundadoras, o freudismo e suas diferentes escolas e historiografia, e a incidencia contradoria de suas descobertas sobre outros movimentos intelectuais, politicos e religiosos. A edicao brasileira inclui artigos preparados especialmente por estudiosos locais (como Helio Pellegrino e Ana Katrin Kemper), bibliografias detalhadas apos cada verbete com edicoes brasileiras, conceitos psicanaliticos em cinco linguas e extenso indice onomastico.
+  - [Companhia das Letras - Dicionario de Psicanalise](https://www.companhiadasletras.com.br/livro/9788571104440/dicionario-de-psicanalise)
+  - [Internet Archive - Dicionario de Psicanalise](https://archive.org/details/RoudinescoElisabethPlonMichelDicionarioDePsicanalise1998)
+
+### Artigos
+
+- **Sonhos, pra que te quero? Pra dormir ou pra despertar? - Carina Ferreira Guedes, Carolina Cardoso Tiussi, Felipe Evaristo Scatambulo, Fernanda Ghiringhello Sato e Isabel Tatit**
+  Artigo publicado na Revista Lacuna (n.17, 2025) que examina os sonhos a partir de lentes psicanaliticas, sociais e antropologicas. Os autores exploram como o capitalismo contemporaneo 24/7 mina o sono e o sonhar, ao mesmo tempo em que abordam dilemas clinicos: pacientes que nao conseguem dormir, nao lembram dos sonhos ou — paradoxalmente — dormem medicados mas nao experimentam vida onirica. O artigo contrasta a interpretacao ocidental individualizada dos sonhos com a cultura yanomami, onde os sonhos servem funcoes coletivas e mobilizam acao comunal. Apoiando-se em teoricos como Lacan, Crary e Koretzky, os autores propoem que os sonhos funcionam criativamente e politicamente, oferecendo "outra cena" para a reficcionalização do sujeito, e defendem a sustentacao do "lugar subversivo do sonho" contra a logica neoliberal que trata seres humanos como maquinas sonambulas.
+  - [Revista Lacuna - Sonhos, pra que te quero?](https://revistalacuna.com/2025/02/18/n-17-04/)
