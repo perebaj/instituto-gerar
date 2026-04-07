@@ -173,3 +173,15 @@
   Obra de referência fundamental para o estudo da psicanálise, publicada no Brasil pela Jorge Zahar Editor (892 páginas, capa dura), com tradução de Vera Ribeiro e Lucy Magalhães. Contém cerca de 800 verbetes que recenseiam e classificam todos os elementos da psicanálise: conceitos teóricos, países de implantação, biografias dos protagonistas, entidades psicopatológicas criadas pela disciplina, técnicas de cura e fenômenos psíquicos, casos clínicos sobre os quais o método terapêutico foi elaborado, instituições fundadoras, o freudismo e suas diferentes escolas e historiografia, e a incidência contraditória de suas descobertas sobre outros movimentos intelectuais, políticos e religiosos.
   - [Companhia das Letras - Dicionário de Psicanálise](https://www.companhiadasletras.com.br/livro/9788571104440/dicionario-de-psicanalise)
   - [Internet Archive - Dicionário de Psicanálise](https://archive.org/details/RoudinescoElisabethPlonMichelDicionarioDePsicanalise1998)
+
+---
+
+## Aula 5 - 07/04/2026
+
+### Sugestão de Leitura Complementar
+
+- **O Que os Psiquiatras Não Te Contam - Juliana Belo Diniz (2025)**
+  Livro da psiquiatra, psicoterapeuta e neurocientista Juliana Belo Diniz, publicado pela Fósforo Editora (256 páginas). A obra desmistifica a ideia de que depressão, ansiedade e pânico são doenças cerebrais curáveis exclusivamente com medicamentos, propondo uma psiquiatria humanizada que reconhece a importância das transformações sociais. Diniz mescla história da psiquiatria com sua experiência clínica, percorrendo as primeiras descobertas clínicas do século XVIII, as polêmicas do efeito placebo e os primórdios dos antidepressivos. Amadurecido ao longo de sete anos de trabalho, o livro questiona o modelo biomédico reducionista e dialoga com a perspectiva psicanalítica ao reafirmar que o sofrimento psíquico não pode ser reduzido a um desequilíbrio químico cerebral — há sempre um sujeito, uma história e um contexto social implicados.
+  - [Fósforo Editora - O Que os Psiquiatras Não Te Contam](https://www.fosforoeditora.com.br/produto/o-que-os-psiquiatras-nao-te-contam-70418)
+  - [Amazon - O Que os Psiquiatras Não Te Contam](https://www.amazon.com.br/que-psiquiatras-n%C3%A3o-contam/dp/6560000826)
+  - [Escotilha - Resenha Crítica](https://escotilha.com.br/literatura/livro-o-que-os-psiquiatras-nao-te-contam-juliana-belo-diniz-resenha-critica/)
