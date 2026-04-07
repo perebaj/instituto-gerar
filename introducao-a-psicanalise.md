@@ -185,3 +185,19 @@
   - [Fósforo Editora - O Que os Psiquiatras Não Te Contam](https://www.fosforoeditora.com.br/produto/o-que-os-psiquiatras-nao-te-contam-70418)
   - [Amazon - O Que os Psiquiatras Não Te Contam](https://www.amazon.com.br/que-psiquiatras-n%C3%A3o-contam/dp/6560000826)
   - [Escotilha - Resenha Crítica](https://escotilha.com.br/literatura/livro-o-que-os-psiquiatras-nao-te-contam-juliana-belo-diniz-resenha-critica/)
+
+- **Anna Kariênina - Liev Tolstói (1877)**
+  Romance monumental de Tolstói, cuja célebre frase de abertura — "Todas as famílias felizes se parecem, cada família infeliz é infeliz à sua maneira" — sintetiza um dos grandes temas da obra e da clínica psicanalítica: a singularidade do sofrimento. A narrativa acompanha Anna Kariênina, aristocrata que abandona casamento e posição social por uma paixão avassaladora pelo conde Vrônski, numa espiral que a conduz à ruína. Em paralelo, Liévin busca sentido para a existência através do amor, do trabalho e da fé. O romance é um vasto painel da Rússia do século XIX, explorando desejo, culpa, transgressão, a tensão entre lei social e pulsão, e a impossibilidade de conciliar as exigências da civilização com a vida pulsional — temas que Freud sistematizaria décadas depois em "Moral Sexual Civilizada" (1908) e "O Mal-Estar na Civilização" (1930). A edição brasileira da Companhia das Letras (839 páginas) traz tradução direta do russo por Rubens Figueiredo e posfácio de Janet Malcolm.
+  - [Companhia das Letras - Anna Kariênina](https://www.companhiadasletras.com.br/livro/9788535929225/anna-karienina)
+  - [Amazon - Anna Kariênina](https://www.amazon.com.br/Anna-Kariênina-Liev-Tolstoi/dp/8535929223)
+
+- **Os Sonhos dos Outros - Flávia Farhat**
+  Livro da escritora, jornalista e collagista curitibana Flávia Farhat, radicada em Portugal. A obra dialoga com o universo onírico e a alteridade — os sonhos como espaço onde o outro nos habita e nos constitui.
+  - [Amazon - Os Sonhos dos Outros](https://www.amazon.com.br/sonhos-dos-outros-Fl%C3%A1via-Farhat/dp/6587603963)
+
+### Referências Visuais
+
+- **A Última Estação (The Last Station) - Michael Hoffman (2009)**
+  Filme biográfico russo-britânico-alemão sobre o último ano de vida de Liev Tolstói (1910), baseado na biografia de Jay Parini. Christopher Plummer interpreta Tolstói e Helen Mirren sua esposa Sófia Tolstaia, numa disputa entre ela e o discípulo Vladimir Chertkov pelo legado e os direitos autorais das obras do escritor. O filme retrata a tensão entre os ideais ascéticos e comunitários de Tolstói — que se opunha à propriedade privada e desejava ceder seus direitos ao domínio público — e os interesses materiais e afetivos de Sófia, encenando na vida do autor os mesmos conflitos entre desejo, lei e renúncia presentes em Anna Kariênina. Ambos os atores foram indicados ao Oscar por suas atuações.
+  - [IMDb - A Última Estação](https://www.imdb.com/title/tt0824758/)
+  - [AdoroCinema - A Última Estação](https://www.adorocinema.com/filmes/filme-112460/)
