@@ -106,3 +106,70 @@
 - **Sonhos, pra que te quero? Pra dormir ou pra despertar? - Carina Ferreira Guedes, Carolina Cardoso Tiussi, Felipe Evaristo Scatambulo, Fernanda Ghiringhello Sato e Isabel Tatit**
   Artigo publicado na Revista Lacuna (n.17, 2025) que examina os sonhos a partir de lentes psicanaliticas, sociais e antropologicas. Os autores exploram como o capitalismo contemporaneo 24/7 mina o sono e o sonhar, ao mesmo tempo em que abordam dilemas clinicos: pacientes que nao conseguem dormir, nao lembram dos sonhos ou — paradoxalmente — dormem medicados mas nao experimentam vida onirica. O artigo contrasta a interpretacao ocidental individualizada dos sonhos com a cultura yanomami, onde os sonhos servem funcoes coletivas e mobilizam acao comunal. Apoiando-se em teoricos como Lacan, Crary e Koretzky, os autores propoem que os sonhos funcionam criativamente e politicamente, oferecendo "outra cena" para a reficcionalização do sujeito, e defendem a sustentacao do "lugar subversivo do sonho" contra a logica neoliberal que trata seres humanos como maquinas sonambulas.
   - [Revista Lacuna - Sonhos, pra que te quero?](https://revistalacuna.com/2025/02/18/n-17-04/)
+
+---
+
+## Aula 4 - 31/03/2026
+
+### Tema: Sexualidade, Eros e Transgressao
+
+### Leituras
+
+- **O Banquete - Platao (c. 380 a.C.)**
+  Dialogo platonico em que convivas pronunciam discursos em louvor ao deus Eros. O discurso central e o de Socrates, que relata os ensinamentos de Diotima de Mantineia: Eros nao e um deus, mas um daimon — ser intermediario entre homens e deuses, filho de Poros (Recurso) e Penia (Pobreza/Carencia), marcado simultaneamente pela falta e pela astutia para buscar o que nao tem. O amor e desejo, e so desejamos aquilo que nao possuimos. O discurso de Aristofanes apresenta o celebre Mito do Androgino — a busca pela metade perdida —, frequentemente retomado na clinica psicanalitica para ilustrar a fantasia neurotica de completude pelo outro. Lacan dedicou parte extensa do Seminario 8 ("A Transferencia", 1960-1961) a um comentario detalhado sobre O Banquete, tomando o episodio de Alcibiades como caso explicito de transferencia e formulando que "amar e dar o que nao se tem" — so se da amor a partir de uma falta, nao de uma posse.
+  - [Baixe Livros - O Banquete](https://www.baixelivros.com.br/ciencias-humanas-e-sociais/filosofia/o-banquete-platao)
+  - [PePSIC - Nota sobre Eros em O Banquete](https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S0101-31062011000100006)
+  - [Revista de Psicanalise da SPPA - O desejo do psicanalista em O Banquete](https://revista.sppa.org.br/RPdaSPPA/article/view/759)
+
+- **Historia do Olho - Georges Bataille (1928)**
+  Novela de estreia de Bataille, publicada sob pseudonimo (Lord Auch), considerada um dos maiores classicos da literatura erotica do seculo XX. A narrativa acompanha um jovem narrador e sua parceira Simone em uma espiral de experiencias sexuais cada vez mais transgressoras, passando por orgias, jogos com objetos esfericos (ovos, olhos, testiculos), profanacao religiosa e assassinato. Bataille comecou a escrever a obra por incentivo direto de seu psicanalista, Adrien Borel, e na segunda parte ("Reminiscencias") conduziu um percurso de deciframento psicanalitico, relacionando as imagens obsessivas da narrativa a traumas de infancia ligados a figura do pai cego e doente. A obra encarna a fusao entre pulsao de vida (Eros) e pulsao de morte (Thanatos): cada cena erotica caminha em direcao a destruicao, selando a indissociabilidade entre prazer sexual e morte.
+  - [Companhia das Letras - Historia do Olho](https://www.companhiadasletras.com.br/livro/9788535930580/historia-do-olho)
+  - [APPOA - Haveria um infantil em Historia do Olho?](https://appoa.org.br/correio/edicao/285/haveria_um_infantil_em_historia_do_olho_de_georges_bataille_/692)
+
+- **O Erotismo - Georges Bataille (1957)**
+  Principal obra teorica de Bataille, que sistematiza suas reflexoes sobre a relacao entre erotismo, morte e religiao. A tese central e que o erotismo e uma experiencia especificamente humana ligada a busca pela "continuidade perdida": os seres humanos, enquanto seres descontinuos (separados uns dos outros), desejam fundir-se com o outro, e tanto o erotismo quanto a morte sao caminhos para essa dissolucao dos limites individuais. Bataille distingue tres modalidades: o erotismo dos corpos (experiencia fisica), o erotismo dos coracoes (paixao amorosa) e o erotismo sagrado (experiencia mistica). O eixo central e a dialetica entre interdito e transgressao: a civilizacao se funda sobre proibicoes que nao eliminam o desejo, mas o intensificam. O conceito lacaniano de gozo (jouissance) tem raizes diretas na compreensao batailleana do erotismo como algo que excede o prazer e toca a dissolucao do sujeito.
+  - [Resenha Critica - O Erotismo](https://www.resenhacritica.com.br/todas-as-categorias/o-erotismo-georges-battaille/)
+  - [UFMS - Um intercurso entre Georges Bataille e Jacques Lacan](https://periodicos.ufms.br/index.php/reveleu/article/view/19687)
+
+- **Moral Sexual Civilizada e Doenca Nervosa Moderna - Sigmund Freud (1908)**
+  Primeiro texto freudiano em que a sociedade e tomada como objeto especifico de analise, precursor de "O Mal-Estar na Civilizacao" (1930). Freud distingue "moral sexual natural" de "moral sexual civilizada": a primeira permite ao individuo conservar sua saude, enquanto a segunda impoe restricoes tiranicamente, obrigando as pessoas a privacao sexual. A origem das neuroses e a repressao sexual — os sintomas neuroticos sao uma satisfacao substitutiva da pulsao sexual recalcada. Freud critica a assimetria da moral sexual entre homens e mulheres e define a neurose como o retorno de desejos sexuais recalcados: o que e reprimido retorna na forma de sintomas.
+  - [Scribd - Moral Sexual Civilizada](https://pt.scribd.com/document/126084000/Moral-Sexual-Civilizada)
+  - [FEBRAPSI - Moral sexual civilizada?](https://febrapsi.org/publicacoes/observatorio/moral-sexual-civilizada/)
+  - [SciELO - Sobre as relacoes entre o sexual e o mal-estar na civilizacao](https://www.scielo.br/j/pc/a/xWGfsvPnbLQDhP8QLtyy9Mz/?lang=pt)
+
+- **Tres Ensaios sobre a Teoria da Sexualidade - Sigmund Freud (1905)**
+  Uma das contribuicoes mais significativas e originais de Freud, que reformula e amplia radicalmente o conceito de sexualidade. Dividida em tres ensaios: (1) "As Aberracoes Sexuais" — analisa perversoes e inversoes sexuais, demonstrando que a fronteira entre "normal" e "patologico" e muito mais tenue do que se supunha; notavelmente, Freud recusa classificar a homossexualidade como degeneracao; (2) "A Sexualidade Infantil" — nucleo mais revolucionario da obra, demonstra que a sexualidade nao comeca na puberdade mas na infancia, introduzindo conceitos como zonas erogenas, pulsoes parciais e a disposicao perverso-polimorfa da crianca; (3) "As Transformacoes da Puberdade" — as pulsoes parciais se organizam sob o primado da zona genital e a sexualidade ganha nova configuracao com a escolha de objeto.
+  - [Companhia das Letras - Trecho do Volume 6](https://www.companhiadasletras.com.br/trechos/14199.pdf)
+  - [PePSIC - Tres Ensaios: entre o potencial subversivo e a reiteracao de normatividades](https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S0102-73952022000100075)
+  - [CBP - Freud e os Tres Ensaios (PDF)](https://cbp.org.br/wp-content/uploads/2024/05/Freud-e-os-Tres-ensaios-1.pdf)
+
+- **Alem do Principio do Prazer - Sigmund Freud (1920)**
+  Texto que marca uma virada fundamental na metapsicologia freudiana. Freud observa que certos fenomenos nao podem ser explicados pelo principio do prazer — pacientes repetem experiencias traumaticas sem nenhum ganho aparente de prazer. Introduz o conceito de compulsao a repeticao, que "sobrepuja o principio do prazer", e descreve o famoso jogo Fort-Da de seu neto, que encenava ativamente a partida da mae transformando a experiencia passiva de perda em atividade ludica. A partir da observacao das neuroses de guerra e da repeticao traumatica, Freud propoe um novo dualismo pulsional: a pulsao de vida (Eros), que busca a uniao e a conservacao, e a pulsao de morte (Thanatos), que visa o retorno ao estado inorganico e a dissolucao.
+  - [PePSIC - Alem do principio do prazer: entre pulsoes, vida e morte](https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S0486-641X2020000100003)
+  - [Psicanalise Clinica - Alem do principio do prazer: pontos importantes](https://www.psicanaliseclinica.com/alem-principio-prazer-freud/)
+
+- **Analise Fragmentaria de uma Histerica (Caso Dora) - Sigmund Freud (1901/1905)**
+  Primeiro dos cinco grandes casos clinicos de Freud. Dora (nome real: Ida Bauer) era uma jovem com sintomas histericos — enurese noturna, dispneia, tosse nervosa, afonia, enxaquecas — envolvida numa complexa dinamica familiar entre seu pai, a Sra. K. (amante do pai) e o Sr. K. (que a assediava). Freud interpreta dois sonhos de Dora, demonstrando que a interpretacao dos sonhos na clinica e analoga a interpretacao dos sintomas — ambos sao formacoes do inconsciente. O caso e crucial para a compreensao da transferencia: Dora abandonou o tratamento precocemente, e Freud reconheceu que nao conseguiu manejar adequadamente a transferencia que ela lhe dirigia. Incluso no Volume 6 das Obras Completas (Companhia das Letras), junto com os Tres Ensaios.
+  - [Companhia das Letras - Obras Completas Volume 6](https://www.companhiadasletras.com.br/livro/9788535927832/freud-1901-1905-obras-completas-volume-6)
+  - [Colunas Tortas - O Caso Dora (resumo)](https://colunastortas.com.br/o-caso-dora-sigmund-freud/)
+  - [UFRGS Wikipsicopato - Histeria e o Caso Dora](https://www.ufrgs.br/psicopatologia/wiki/index.php?title=Histeria_e_o_Caso_Dora)
+
+- **Conferencias Introdutorias sobre Psicanalise - Sigmund Freud (1916-1917)**
+  Conferencias proferidas por Freud na Universidade de Viena, organizadas em tres partes: Atos Falhos, Os Sonhos e Teoria Geral das Neuroses. A terceira parte contem as conferencias mais diretamente clinicas: a Conferencia 16 ("Psicanalise e Psiquiatria") discute como a abordagem psicanalitica se diferencia da psiquiatria tradicional — enquanto a psiquiatria classifica e descreve sintomas, a psicanalise busca seu sentido inconsciente; a Conferencia 17 ("O sentido dos sintomas") enfatiza que o conteudo manifesto dos sintomas e um representante disfarçado de um elemento inconsciente recalcado; a Conferencia 23 aborda os caminhos da formacao dos sintomas a partir de fantasias inconscientes e experiencias reais.
+  - [Amazon - Obras Completas Volume 13](https://www.amazon.com.br/Freud-1916-1917-confer%C3%AAncias-introdut%C3%B3rias-psican%C3%A1lise/dp/8535924191)
+  - [PePSIC - Freud e o sintoma nas Conferencias Introdutorias](https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1517-24302019000100008)
+  - [IPLA - Conferencias Introdutorias a Psicanalise](https://ipla.com.br/conteudos/artigos/conferencias-introdutorias-a-psicanalise/)
+
+- **Caro Dr. Freud: Respostas do Seculo XXI a uma Carta sobre Homossexualidade - Gilson Iannini (org.)**
+  Em 1935, uma mae americana escreveu a Freud preocupada com a sexualidade de seu filho. Na resposta, Freud afirmou: "A homossexualidade certamente nao e uma vantagem, mas tampouco e algo de que se envergonhar; nao e um vicio, nem uma degradacao, e nao pode ser classificada como doenca." Oito decadas depois, a editora Autentica convidou ativistas, maes, psicanalistas, escritores, sociologos, filosofos, juristas e estudiosos de genero para responderem: e se a carta de Freud fosse enderecada a voce? O resultado sao textos que expressam a diversidade de perspectivas teoricas, politicas, literarias e sexuais, trazendo a Freud as angustias de hoje e revisitando a posicao freudiana de que a orientacao sexual nao constitui patologia.
+  - [Amazon - Caro Dr. Freud](https://www.amazon.com.br/Caro-Dr-Freud-respostas-homossexualidade/dp/855130609X)
+  - [Google Books - Caro Dr. Freud](https://books.google.com/books/about/Caro_Dr_Freud.html?id=BxyzDwAAQBAJ)
+
+- **Mito e Psicanalise - Ana Vicentini (2004)**
+  Livro introdutorio publicado pela Zahar (76 paginas) que investiga as relacoes entre mitologia e teoria psicanalitica. A autora parte da premissa de que o mito e referencia para a psicanalise desde sua criacao por Freud — basta lembrar o complexo de Edipo, nomeado a partir da tragedia grega. No caminho inverso, mostra como algumas nocoes psicanaliticas ja podem ser identificadas em relatos miticos da Grecia antiga. A obra mapeia esse dialogo de mao dupla, mostrando como a mitologia grega antecipava nocoes sobre o inconsciente, o desejo e o conflito psiquico.
+  - [Companhia das Letras - Mito e Psicanalise](https://www.companhiadasletras.com.br/livro/9788571107755/mito-e-psicanalise)
+
+- **Dicionario de Psicanalise - Elisabeth Roudinesco & Michel Plon (1998)**
+  Obra de referencia fundamental para o estudo da psicanalise, publicada no Brasil pela Jorge Zahar Editor (892 paginas, capa dura), com traducao de Vera Ribeiro e Lucy Magalhaes. Contem cerca de 800 verbetes que recenseiam e classificam todos os elementos da psicanalise: conceitos teoricos, paises de implantacao, biografias dos protagonistas, entidades psicopatologicas criadas pela disciplina, tecnicas de cura e fenomenos psiquicos, casos clinicos sobre os quais o metodo terapeutico foi elaborado, instituicoes fundadoras, o freudismo e suas diferentes escolas e historiografia, e a incidencia contradoria de suas descobertas sobre outros movimentos intelectuais, politicos e religiosos.
+  - [Companhia das Letras - Dicionario de Psicanalise](https://www.companhiadasletras.com.br/livro/9788571104440/dicionario-de-psicanalise)
+  - [Internet Archive - Dicionario de Psicanalise](https://archive.org/details/RoudinescoElisabethPlonMichelDicionarioDePsicanalise1998)
