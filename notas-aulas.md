@@ -74,3 +74,24 @@ Confiar em quem não sabe qual a melhor decisão.
 Cocaina é a droga do capitalismo e maconha é a droga dos preguiçosos. Se você nao está usando um medicamente para render mais, você é preguiçoso.
 
 O delirio é discursivo. Ele deixa de ser algo imaginário e possui uma ponta de realidade.
+
+quando a pessoa estao em delirio ela esta em sofrimento. Dizer que alguem está sentindo prazer com o delírio é algo muito questionavel.
+
+o delirio é uma forma de lidar com a angustia.
+
+o sonho é uma forma curativa, o delirio é uma forma curativa. Uma mentira é algo curativa?
+
+# Aula 6 - 14/04/2026 - O caso Hans
+
+a sexualidade nao esta diretamente ligada a reproducao.
+Ele explora toda as possibilidades de prazer q aparecem na vida dele.
+voyeurismo e exibicionismo
+sadismo e masoquismo
+sofrimento psiquico dessa criança
+Só existe um afeto: angustia.
+Conceito: Fort-da: Angustiava qnd a mae se afastava e ficava bem qnd ela voltava.
+Leu sobre o menino com uma fobia. Pq fobia?
+Pq eu tenho q enfrentar a solidao do meu quarto sozinho sendo q vc tem alguem p/ dormir com voce(no caso os pais).
+Angustia das crianças ao tentar dormir com os pais. Existe a necessidade de satisfazer um desejo. Uma atmosfera desejante.
+Uma criança em um lar pouco desejante
+Sintoma da criança e sintoma na criança. 
