@@ -201,3 +201,58 @@
   Filme biográfico russo-britânico-alemão sobre o último ano de vida de Liev Tolstói (1910), baseado na biografia de Jay Parini. Christopher Plummer interpreta Tolstói e Helen Mirren sua esposa Sófia Tolstaia, numa disputa entre ela e o discípulo Vladimir Chertkov pelo legado e os direitos autorais das obras do escritor. O filme retrata a tensão entre os ideais ascéticos e comunitários de Tolstói — que se opunha à propriedade privada e desejava ceder seus direitos ao domínio público — e os interesses materiais e afetivos de Sófia, encenando na vida do autor os mesmos conflitos entre desejo, lei e renúncia presentes em Anna Kariênina. Ambos os atores foram indicados ao Oscar por suas atuações.
   - [IMDb - A Última Estação](https://www.imdb.com/title/tt0824758/)
   - [AdoroCinema - A Última Estação](https://www.adorocinema.com/filmes/filme-112460/)
+
+---
+
+## Aula 6 - 14/04/2026
+
+### Tema: O Caso Hans — Psicanálise Infantil, Angústia e Fobia
+
+### Leituras
+
+- **O Estranho (Das Unheimliche) - Sigmund Freud (1919)**
+  Ensaio em que Freud investiga a natureza do sentimento de estranheza inquietante (Unheimliche), tomando como principal objeto de análise o conto "O Homem da Areia" de E. T. A. Hoffmann. Freud demonstra que o estranho não é simplesmente o desconhecido, mas aquilo que, tendo sido familiar e íntimo (heimlich), foi recalcado e retorna — o estranho é o familiar que se tornou irreconhecível pelo recalque. A partir do conto de Hoffmann, Freud associa a figura ameaçadora do Homem da Areia (que arranca os olhos das crianças) à angústia de castração infantil, argumentando que a perda dos olhos funciona como substituto simbólico da castração. O ensaio articula estética, literatura e metapsicologia, sendo fundamental para a compreensão da angústia, da compulsão à repetição e do retorno do recalcado. A edição comemorativa bilíngue da Autêntica (2019) inclui o conto de Hoffmann na íntegra.
+  - [Amazon - O Infamiliar (Das Unheimliche) - Edição Bilíngue](https://www.amazon.com.br/infamiliar-Das-Unheimliche-comemorativa-1919-2019/dp/8551304860)
+  - [PePSIC - O estranho na obra de Freud e no ensino de Lacan](https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S2176-48912020000100008)
+  - [Abusões/UERJ - Das Unheimliche ou "O Estranho", de Freud](https://www.e-publicacoes.uerj.br/index.php/abusoes/article/view/42193)
+
+- **O Homem da Areia (Der Sandmann) - E. T. A. Hoffmann (1816)**
+  Conto fantástico do escritor romântico alemão Ernst Theodor Amadeus Hoffmann, publicado na coletânea "Nachtstücke" (Peças Noturnas). A narrativa acompanha o jovem estudante Nathanael, atormentado desde a infância pela figura do Homem da Areia — ser monstruoso que, segundo a lenda contada por sua mãe, arranca os olhos das crianças que não querem dormir. Nathanael associa essa figura ao sinistro advogado Coppelius, ligado à morte misteriosa de seu pai, e posteriormente ao vendedor de instrumentos ópticos Coppola. A história culmina com Nathanael descobrindo que Olimpia, por quem se apaixonou, é na verdade um autômato — uma boneca mecânica —, precipitando sua loucura e morte. O conto é peça central da análise freudiana em "O Estranho" (1919), onde Freud interpreta a ameaça aos olhos como representação simbólica da angústia de castração. A Ubu Editora publicou edição brasileira com ensaios interdisciplinares.
+  - [Ubu Editora - O Homem da Areia](https://www.ubueditora.com.br/homem-areia.html)
+
+- **Luto e Melancolia (Trauer und Melancholie) - Sigmund Freud (1917[1915])**
+  Texto metapsicológico redigido em 1915 e publicado em 1917, no qual Freud estabelece uma comparação estrutural entre o luto normal e a melancolia (depressão). No luto, o sujeito sabe o que perdeu e, através de um penoso trabalho psíquico — o "trabalho de luto" —, consegue gradualmente desinvestir o objeto perdido e liberar a libido para novos investimentos. Na melancolia, a perda é inconsciente: o sujeito não sabe exatamente o que perdeu no objeto, e a libido retirada não se dirige a um novo objeto, mas reflui sobre o próprio eu, que passa a ser tratado como o objeto abandonado. Daí os autorreproches melancólicos: as acusações que o melancólico dirige a si mesmo são, na verdade, acusações dirigidas ao objeto perdido com o qual o eu se identificou. O conceito central é a identificação narcísica: "a sombra do objeto caiu sobre o eu". O texto é fundamental para a compreensão psicanalítica da depressão, do narcisismo e dos processos de identificação.
+  - [Amazon - Luto e Melancolia](https://www.amazon.com.br/Luto-Melancolia-Sigmund-Freud/dp/8540501015)
+  - [SciELO - Luto e melancolia, de Freud](https://www.scielo.br/j/nec/a/SKPG96FFGB6qtfGzgHkTpkP/?format=html&lang=pt)
+  - [Psicanálise Clínica - Luto e Melancolia: diferenças em Freud](https://www.psicanaliseclinica.com/luto-e-melancolia/)
+
+- **Além do Princípio do Prazer - Sigmund Freud (1920)**
+  Texto que marca uma virada fundamental na metapsicologia freudiana. Freud observa que certos fenômenos não podem ser explicados pelo princípio do prazer — pacientes repetem experiências traumáticas sem nenhum ganho aparente de prazer. Introduz o conceito de compulsão à repetição e descreve o famoso jogo Fort-Da de seu neto, que encenava ativamente a partida da mãe transformando a experiência passiva de perda em atividade lúdica. A partir da observação das neuroses de guerra e da repetição traumática, Freud propõe um novo dualismo pulsional: a pulsão de vida (Eros), que busca a união e a conservação, e a pulsão de morte (Thanatos), que visa o retorno ao estado inorgânico e a dissolução.
+  - [PePSIC - Além do princípio do prazer: entre pulsões, vida e morte](https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S0486-641X2020000100003)
+  - [Psicanálise Clínica - Além do princípio do prazer: pontos importantes](https://www.psicanaliseclinica.com/alem-principio-prazer-freud/)
+
+- **De Minha Vida: Poesia e Verdade (Aus meinem Leben: Dichtung und Wahrheit) - Johann Wolfgang von Goethe (1811-1833)**
+  Autobiografia monumental de Goethe, considerada paradigma do gênero autobiográfico moderno, ao lado das Confissões de Santo Agostinho e de Rousseau. Escrita entre 1809 e seus últimos dias, a obra relata as primeiras décadas da vida do autor — infância em Frankfurt, juventude, formação intelectual e os primeiros anos de sua carreira literária —, mostrando como experiências, viagens, encontros e leituras moldaram seu caráter e sua produção poética. O título encerra uma tensão programática: Goethe entrelaça deliberadamente fato autobiográfico (Wahrheit) e elaboração poética (Dichtung), reconhecendo que toda narrativa de si implica uma construção ficcional. A obra é relevante para a psicanálise pelo conceito de Bildung (formação) que a estrutura — a ideia de que o sujeito se constitui através de suas experiências — e pela reflexão sobre como memória, narrativa e verdade subjetiva se articulam, tema central tanto na autobiografia quanto na clínica psicanalítica. A edição brasileira da Editora UNESP traz tradução de Maurício Mendonça Cardozo.
+  - [Editora UNESP - De Minha Vida: Poesia e Verdade](https://editoraunesp.com.br/blog/classicos-do-catalogo-de-minha-vida-poesia-e-verdade-de-goethe)
+  - [Amazon - De Minha Vida: Poesia e Verdade](https://www.amazon.com.br/minha-vida-Johann-Wolfgang-Goethe/dp/8539306565)
+  - [SciELO - Sobre a literariedade da autobiografia de Goethe](https://www.scielo.br/j/ea/a/RYyDtYnxXbVVttL34RyYsnR/)
+
+- **Biografia de Melanie Klein (1882-1960)**
+  Melanie Klein foi uma psicanalista austríaca que revolucionou a psicanálise infantil ao introduzir a técnica do brincar (Spieltechnik) como método de acesso ao inconsciente das crianças — equivalente à associação livre dos adultos. Nascida em Viena, analisou-se com Sándor Ferenczi em Budapeste e depois com Karl Abraham em Berlim, antes de se estabelecer em Londres (1926), onde se tornou figura central da Sociedade Britânica de Psicanálise. Suas contribuições fundamentais incluem: a teoria das posições (esquizo-paranoide e depressiva) como modos de funcionamento psíquico presentes desde os primeiros meses de vida; a ênfase na fantasia inconsciente como expressão mental das pulsões; o conceito de identificação projetiva; a antecipação do complexo de Édipo para o primeiro ano de vida; e a teoria da inveja e gratidão. Klein sustentava que a vida psíquica do bebê é intensamente ativa desde o nascimento, dominada pela cisão do objeto em "bom" e "mau" (posição esquizo-paranoide), evoluindo gradualmente para a integração do objeto total e a capacidade de reparação (posição depressiva). Sua obra gerou intensas controvérsias com Anna Freud, culminando nas "Grandes Controvérsias" (Controversial Discussions, 1941-1945) da Sociedade Britânica.
+  - [SBPSP - Quem foi Melanie Klein?](https://www.sbpsp.org.br/blog/quem-foi-melanie-klein/)
+  - [Psicanálise Clínica - Melanie Klein: biografia, teoria e contribuições](https://www.psicanaliseclinica.com/melanie-klein-psicanalise/)
+  - [Scribd - Biografia de Melanie Klein](https://www.scribd.com/document/860700438/Biografia-de-Melanie-Klein)
+
+### Referências Musicais
+
+- **Mais Simples - José Miguel Wisnik (interpretação de Caetano Veloso e Tom Veloso)**
+  Composição de José Miguel Wisnik, originalmente gravada no álbum de estreia do compositor em 1993. A canção fala sobre a intensidade e a complexidade do amor com versos como "É sobre-humano amar / cê sabe muito bem / É sobre-humano amar sentir doer / Gozar / Ser feliz". Caetano Veloso, que se encantou pela música no início dos anos 1990 mas nunca a havia gravado, registrou-a ao lado do filho Tom Veloso em single lançado em janeiro de 2026, acompanhado apenas pelo violão de Tom, como parte de um projeto de Wisnik que reúne gravações de suas canções por diferentes intérpretes. A escolha da canção no contexto do curso dialoga com o tema da simplicidade e da complexidade do desejo — o que parece "mais simples" carrega em si a dimensão sobre-humana do afeto.
+  - [Letras.mus.br - Mais Simples](https://www.letras.mus.br/caetano-veloso/mais-simples-part-tony-veloso-e-jose-miguel-wisnick/)
+  - [Apple Music - Mais Simples](https://music.apple.com/br/song/mais-simples/1865012407)
+
+### Referências Complementares
+
+- **O Rei e a Omelete - Walter Benjamin**
+  Conto de Walter Benjamin sobre um rei que possuía todo o poder e tesouros da terra, mas sentia-se cada vez mais melancólico. O rei pede a seu cozinheiro que prepare uma omelete de amoras, a mesma que havia saboreado cinquenta anos antes, em sua infância. A narrativa toca temas caros à psicanálise: a melancolia, a impossibilidade de recuperar o objeto perdido, a nostalgia de uma satisfação originária que não pode ser reencontrada — o que Freud chamaria de "a coisa" (das Ding), o objeto para sempre perdido que move o desejo.
+  - [PDF - O Rei e a Omelete (SME-SP)](https://educacao.sme.prefeitura.sp.gov.br/wp-content/uploads/Portals/1/Files/6014.pdf)
+  - [PePSIC - O rei e a omelete de amoras](https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S0486-641X2015000400008)
