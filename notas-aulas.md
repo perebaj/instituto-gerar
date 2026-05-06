@@ -95,3 +95,15 @@ Pq eu tenho q enfrentar a solidao do meu quarto sozinho sendo q vc tem alguem p/
 Angustia das crianças ao tentar dormir com os pais. Existe a necessidade de satisfazer um desejo. Uma atmosfera desejante.
 Uma criança em um lar pouco desejante
 Sintoma da criança e sintoma na criança. 
+
+Aula 08 - 05/05/2026 - Histeria I Caso Dora
+
+Neurótico obsessivo sofre do pensando e o histérico sofre do corpo.
+Transferência com o supervisor? Com o psicanalista?
+Tudo é sexo. Exceto sexo, que é sobre poder.
+O mundo sempre esteve por acabar.
+Viver é muito perigoso. Sempre acaba em morte.
+você n ta doente, você é pobre.
+Como eles se sentam na mesa?
+Psicose 
+A melhor coisa que um pai pode fazer por seu filho é amar sua mulher.

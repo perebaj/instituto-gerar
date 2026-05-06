@@ -11,13 +11,12 @@ Este repositorio reune o material de estudo organizado por aula, incluindo:
 - Podcasts e referencias visuais
 - Links para fontes e edicoes disponiveis
 
-## Estrutura
-
-O conteudo esta concentrado no arquivo [`introducao-a-psicanalise.md`](introducao-a-psicanalise.md), organizado cronologicamente por aula.
-
-| Aula | Data       | Tema |
-|------|------------|------|
-| 1    | 10/03/2026 | Fundamentos: negacao, fala e linguagem |
-| 2    | 17/03/2026 | Antigona, atos falhos e o normal/patologico |
-| 3    | 24/03/2026 | O Desejo dos Outros — Etnografia dos Sonhos Yanomami |
-| 4    | 31/03/2026 | Sexualidade, Eros e Transgressao |
+10/03/2026 20:00 às 22:00 Aula 01: Apresentação do curso. Freud e a Moral Vitoriana
+17/03/2026 20:00 às 22:00 Aula 02: Cinco lições de psicanálise
+24/03/2026 20:00 às 22:00 Aula 03: Cinco lições de psicanálise
+31/03/2026 20:00 às 22:00 Aula 04: Cinco lições de psicanálise
+07/04/2026 20:00 às 22:00 Aula 05: Psicanálise e Psiquiatria
+14/04/2026 20:00 às 22:00 Aula 06: Caso Hans
+28/04/2026 20:00 às 22:00 Aula 07: Caso Hans (continuação)
+05/05/2026 20:00 às 22:00 Aula 08:Histeria I Caso Dora
+12/05/2026 20:00 às 22:00 Aula 09: Histeria II Caso Dora (continuação)
